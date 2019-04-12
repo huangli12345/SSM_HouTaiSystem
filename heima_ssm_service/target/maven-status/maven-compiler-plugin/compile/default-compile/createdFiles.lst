@@ -1,0 +1,4 @@
+cn\hl\ssm\service\Impl\OrdersServiceImpl.class
+cn\hl\ssm\service\Impl\ProductServiceImpl.class
+cn\hl\ssm\service\IProductService.class
+cn\hl\ssm\service\IOrdersService.class
